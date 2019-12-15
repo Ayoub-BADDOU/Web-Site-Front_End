@@ -1,0 +1,265 @@
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+/*--------------------NavigationBar----------*/
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10px;
+}
+
+.navbar-brand img
+{
+	height: 50px;
+	padding-left: 30px;
+	margin: 0;
+}
+
+.navbar-nav li
+{
+	padding: 0 15px;
+	margin: 0px;
+}
+
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+
+#nav-bar ul li a:hover
+{
+	color: #007BFF!important;
+}
+
+.navbar
+{
+	background : #fff; 
+}
+
+.navbar-toggler
+{
+	border : none!important;
+}
+
+.nav-link
+{
+	color: #555;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+/*--------------------Slider----------*/
+
+.slider
+{
+	width: 100%;
+}
+
+.carousel-caption h5
+{
+	color: #fff;
+	font-size: 41px;
+}
+
+/*--------------------about--------*/
+
+#about
+{
+	padding-top: 80px;
+	padding-bottom: 50px;
+	color: #555;
+	height: 627px;
+}
+
+#about .btn
+{
+	margin-top: 10px;
+	margin-bottom: 5px; 
+}
+
+.about-content
+{
+	padding-top: 5px;
+}
+
+.about-content ul li
+{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.skills-bar 
+{
+	margin-bottom: 150px;
+}
+
+.skills-bar p
+{
+	margin-bottom: 4px;
+	margin-top: 50px;
+	font-weight: 600;
+}
+
+.progress-bar
+{
+	border-radius: 16px;
+}
+
+.progress
+{
+	border-radius: 16px !important;
+	margin-bottom: 40px;
+}
+
+/*--------------------html--------*/
+
+#html
+{
+	padding-top: 80px;
+	padding-bottom: 50px;
+	background-color: #E44D26;
+	color: white;
+	height: 627px;
+}
+
+.html-head
+{
+	display: block;
+	font-family: Showcard Gothic;
+	font-size: 70px;
+	font-weight: bold;
+	width: 100%;
+	letter-spacing: 20px;
+}
+
+.abr
+{
+	font-size: 19px;
+}
+
+.def
+{
+	font-size: 26px;
+	text-align: justify;
+	font-weight: bold;
+	margin-top: 20px; 
+}
+
+
+.info
+{
+	margin : 25px;
+	margin-left: 350px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	list-style-type : none;
+}
+
+
+.col-md-6 img
+{
+	align-items: center;
+
+}
+
+/*--------------------css--------*/
+
+#css
+{
+	padding-top: 80px;
+	padding-bottom: 50px;
+	background-color: #264de4;
+	color: white;
+	height: 627px;
+}
+
+.css-head
+{
+	display: block;
+	font-family: Showcard Gothic;
+	font-size: 70px;
+	font-weight: bold;
+	width: 100%;
+	letter-spacing: 20px;
+}
+
+.abr
+{
+	font-size: 19px;
+}
+
+.infocss
+{
+	margin : 25px;
+	margin-left: 400px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	list-style-type : none;
+}
+
+/*--------------------js--------*/
+
+#js
+{
+	padding-top: 80px;
+	padding-bottom: 50px;
+	background-color: #FF9800;
+	color: white;
+	height: 627px;
+}
+
+.js-head
+{
+	margin-top: 0px;
+	display: block;
+	font-family: Showcard Gothic;
+	font-size: 60px;
+	font-weight: bold;
+	width: 100%;
+	letter-spacing: 20px;
+}
+
+.abr
+{
+	font-size: 16px;
+}
+
+.infojs
+{
+	margin-top: 25px;
+	margin-left: 400px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	list-style-type : none;
+}
+
+/*--------------------contact--------*/
+
+#contact
+{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #FFF;
+	color: white;
+	height: 627px;
+}
+
+.containerContact
+{
+	padding-top: 100px;
+}
+
+#form
+{
+	max-width: 800px;
+	position: relative;
+	left: 250px;
+}
